@@ -5,7 +5,11 @@
     <hr>
     <br>
     
-     <label for="brother"><b>brother</b></label>
+    <label for="sister"><b>sister</b></label>
+    <input type="text" placeholder="sister name" name="sister" id="sister" required>
+    <br>
+
+    <label for="brother"><b>brother</b></label>
     <input type="text" placeholder="brother name" name="brother" id="brother" required>
     <br>
 
