@@ -4,7 +4,11 @@
     <p>Please fill in this form !!!</p>
     <hr>
     <br>
-   
+    
+    <label for="father"><b>father</b></label>
+    <input type="text" placeholder="father name" name="father" id="father" required>
+    <br>
+
     <label for="mother"><b>mother</b></label>
     <input type="text" placeholder="mother name" name="mother" id="mother" required>
     <br>
