@@ -5,8 +5,8 @@
     <hr>
     <br>
     
-     <label for="mother"><b>mother</b></label>
-    <input type="text" placeholder="mother name" name="mother" id="mother" required>
+     <label for="brother"><b>brother</b></label>
+    <input type="text" placeholder="brother name" name="brother" id="brother" required>
     <br>
 
     <label for="father"><b>father</b></label>
