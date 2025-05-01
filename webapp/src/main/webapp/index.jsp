@@ -5,6 +5,10 @@
     <hr>
     <br>
    
+    <label for="mother"><b>mother</b></label>
+    <input type="text" placeholder="mother name" name="mother" id="mother" required>
+    <br>
+
     <label for="aadhar"><b>aadhar</b></label>
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
     <br>
