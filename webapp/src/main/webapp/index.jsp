@@ -4,6 +4,10 @@
     <p>Please fill in this form !!!</p>
     <hr>
     <br>
+
+    <label for="spouse"><b>spouse</b></label>
+    <input type="text" placeholder="spouse name" name="spouse" id="spouse" required>
+    <br>
     
     <label for="sister"><b>sister</b></label>
     <input type="text" placeholder="sister name" name="sister" id="sister" required>
