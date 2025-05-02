@@ -5,42 +5,6 @@
     <hr>
     <br>
     
-    <label for="daughter"><b>daughter</b></label>
-    <input type="text" placeholder="daughter name" name="daughter" id="daughter" required>
-    <br>
-
-    <label for="son"><b>son</b></label>
-    <input type="text" placeholder="son name" name="son" id="son" required>
-    <br>
-
-    <label for="spouse"><b>spouse</b></label>
-    <input type="text" placeholder="spouse name" name="spouse" id="spouse" required>
-    <br>
-    
-    <label for="sister"><b>sister</b></label>
-    <input type="text" placeholder="sister name" name="sister" id="sister" required>
-    <br>
-
-    <label for="brother"><b>brother</b></label>
-    <input type="text" placeholder="brother name" name="brother" id="brother" required>
-    <br>
-
-    <label for="father"><b>father</b></label>
-    <input type="text" placeholder="father name" name="father" id="father" required>
-    <br>
-
-    <label for="mother"><b>mother</b></label>
-    <input type="text" placeholder="mother name" name="mother" id="mother" required>
-    <br>
-
-    <label for="aadhar"><b>aadhar</b></label>
-    <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
-    <br>
-
-    <label for="name"><b>name</b></label>
-    <input type="text" placeholder="Enter name" name="name" id="name" required>
-    <br>
-
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
