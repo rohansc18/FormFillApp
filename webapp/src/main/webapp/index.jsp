@@ -5,6 +5,10 @@
     <hr>
     <br>
     
+    <label for="daughter"><b>daughter</b></label>
+    <input type="text" placeholder="daughter name" name="daughter" id="daughter" required>
+    <br>
+
     <label for="son"><b>son</b></label>
     <input type="text" placeholder="son name" name="son" id="son" required>
     <br>
