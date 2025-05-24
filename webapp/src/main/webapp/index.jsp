@@ -5,7 +5,11 @@
     <hr>
     <br>
     
-     <label for="Sister"><b>Sister</b></label>
+    <label for="Son"><b>Son</b></label>
+    <input type="text" placeholder="Enter Son" name="Son" id="Son" required>
+    <br>
+
+    <label for="Sister"><b>Sister</b></label>
     <input type="text" placeholder="Enter Sister" name="Sister" id="Sister" required>
     <br>
 
