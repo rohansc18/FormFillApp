@@ -5,6 +5,10 @@
     <hr>
     <br>
     
+    <label for="Spouse"><b>Spouse</b></label>
+    <input type="text" placeholder="Enter Spouse" name="Spouse" id="Spouse" required>
+    <br>
+
     <label for="Son"><b>Son</b></label>
     <input type="text" placeholder="Enter Son" name="Son" id="Son" required>
     <br>
